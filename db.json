@@ -1,4 +1,4 @@
-[{
+{ "metadata": [{
    "id": 0,
   "description": "Art description goes here", 
   "external_url": "http://c", 
@@ -9,3 +9,4 @@
       "value": "Starfish"
     }], 
 }]
+}
