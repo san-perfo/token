@@ -4,6 +4,8 @@
   "external_url": "http://c", 
   "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
   "name": "Starry Canvas",
+   "Artist": "SAM",
+   "genre": "Creatures",
   "attributes": [ {
       "trait_type": "Base", 
       "value": "Starfish"
