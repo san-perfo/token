@@ -1,25 +1,53 @@
-{ "metadata": [{
+{ "metadata": [
+   {
    "id": 0,
   "description": "Art description goes here", 
   "external_url": "http://c", 
   "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
   "name": "Starry Canvas",
    "Artist": "SAM",
+   "genre": "Puffs",
+  "attributes": [{
+      "trait_type": "Base", 
+      "value": "Bird"
+    }] 
+},
+{
+   "id": 1,
+  "description": "Art description for id 1", 
+  "external_url": "http://c", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png", 
+  "name": "Dave Starbelly",
+   "Artist": "SAM",
    "genre": "Creatures",
-  "attributes": [ {
+  "attributes": [{
+      "trait_type": "Base", 
+      "value": "Crab"
+    }] 
+},{
+   "id": 2,
+  "description": "Art description for id 2", 
+  "external_url": "http://c", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/1.png", 
+  "name": "Creature 1",
+   "Artist": "SAM",
+   "genre": "Creatures",
+  "attributes": [{
       "trait_type": "Base", 
       "value": "Starfish"
     }] 
 },
-              {
-   "id": 5,
-  "description": "description for id 5", 
+{
+   "id": 3,
+  "description": "Art description for id 3", 
   "external_url": "http://c", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-  "name": "Dave Starbelly",
-  "attributes": [ {
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/10.png", 
+  "name": "Puffs 10",
+   "Artist": "SAM",
+   "genre": "Puffs",
+  "attributes": [{
       "trait_type": "Base", 
-      "value": "Starfish"
+      "value": "Bird"
     }] 
-}]
 }
+]}
