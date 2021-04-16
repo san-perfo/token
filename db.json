@@ -12,6 +12,15 @@
     },{
       "trait_type": "birthday", 
       "value": 1546360800
+    },{
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 10
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
     }] 
 },
               {
