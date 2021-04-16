@@ -10,6 +10,9 @@
       "trait_type": "Base", 
       "value": "Starfish"
     },{
+      "trait_type": "Test", 
+      "value": "Testing"
+    },{
        "display_type": "date", 
       "trait_type": "birthday", 
       "value": 1546360800
