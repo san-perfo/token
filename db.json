@@ -9,6 +9,10 @@
   "attributes": [ {
       "trait_type": "Base", 
       "value": "Starfish"
+    },{
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1546360800
     }] 
 },
               {
