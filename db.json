@@ -94,6 +94,10 @@
   "attributes": [ {
       "trait_type": "Base", 
       "value": "Video"
+    },
+    {
+      "trait_type": "Test", 
+      "value": "Video"
     }]
 }
 ]}
