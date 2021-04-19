@@ -83,5 +83,16 @@
       "trait_type": "Base", 
       "value": "Starfish"
     }] 
+},
+                {
+   "id": 7,
+  "description": "description for id 7", 
+  "external_url": "http://c", 
+  "image": "https://vimeo.com/537738968", 
+  "name": "New one",
+  "attributes": [ {
+      "trait_type": "Base", 
+      "value": "Video"
+    }] 
 }
 ]}
