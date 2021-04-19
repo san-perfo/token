@@ -88,7 +88,7 @@
    "id": 7,
   "description": "description for id 7", 
   "external_url": "http://c", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/0.png", 
+   "animation_url":"https://vimeo.com/537738968",
   "name": "New one",
   "attributes": [ {
       "trait_type": "Base", 
