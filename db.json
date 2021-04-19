@@ -88,6 +88,7 @@
    "id": 7,
   "description": "description for id 7", 
   "external_url": "http://c", 
+  "image":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
    "youtube_url":"https://youtu.be/lbXcvRx0o3Y",
   "name": "New one",
   "attributes": [ {
