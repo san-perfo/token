@@ -88,11 +88,12 @@
    "id": 7,
   "description": "description for id 7", 
   "external_url": "http://c", 
-  "image": "https://vimeo.com/537738968", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/0.png", 
   "name": "New one",
   "attributes": [ {
       "trait_type": "Base", 
       "value": "Video"
-    }] 
+    }],
+  "animation_url": "https://vimeo.com/537738968"
 }
 ]}
