@@ -88,7 +88,8 @@
    "id": 7,
   "description": "description for id 7", 
   "external_url": "http://c", 
-  "image":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+  "animation_url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+"image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/0.png",
   "name": "New one",
   "attributes": [ {
       "trait_type": "Base", 
