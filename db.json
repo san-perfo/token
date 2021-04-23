@@ -2,9 +2,8 @@
    "id": 0,
   "description": "Art description goes here", 
   "external_url": "https://google.com", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png", 
+  "animation_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4", 
   "name": "Starry Canvas",
-   "language": ["English","malayalam"],
    "Artist": "SAM",
    "genre": "Creatures",
   "attributes": [ {
