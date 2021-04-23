@@ -126,5 +126,16 @@
       "trait_type": "Testing", 
       "value": "Base url"
     }]
+},
+                {
+   "id": 10,
+  "description": "description for id 10", 
+  "external_url": "https://google.com", 
+"animation_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "name": "Animation",
+  "attributes": [ {
+      "trait_type": "Testing", 
+      "value": "Animation"
+    }]
 }
 ]}
