@@ -120,7 +120,7 @@
    "id": 9,
   "description": "description for id 9", 
   "external_url": "https://google.com", 
-"image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/24.png",
+"animation_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
   "name": "New one",
   "attributes": [ {
       "trait_type": "Testing", 
